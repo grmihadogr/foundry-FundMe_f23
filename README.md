@@ -3,6 +3,8 @@
 3. Programatic verification
 4. Push to Github
 
+# this is a crowd sourcing app!
+
 # Foundry Fund Me
 
 This is a section me recreation of Cyfrin Solidity Course. I followed his guidance with my own understanding and adjustment of code to verify all the functions. The rest is a copy from Cyfrin.
