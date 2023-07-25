@@ -3,12 +3,15 @@
 3. Programatic verification
 4. Push to Github
 
+# this is a crowd sourcing app!
+
 # Foundry Fund Me
-#this is my first proj. The proj is a crowd sourcing app!
 
 This is a section me recreation of Cyfrin Solidity Course. I followed his guidance with my own understanding and adjustment of code to verify all the functions. The rest is a copy from Cyfrin.
 
+*[⭐️ (0:00:00) | Lesson 7: Foundry Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=0s)*
 
+- [this is a crowd sourcing app!](#this-is-a-crowd-sourcing-app)
 - [Foundry Fund Me](#foundry-fund-me)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
